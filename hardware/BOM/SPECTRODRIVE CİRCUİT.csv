@@ -1,13 +1,13 @@
-Reference;,Qty,;Value;,DNP,;Exclude from BOM;,Exclude from Board,;Footprint;,Datasheet,
-A1;,1,;ARDUINO_MEGA_2560_REV3_A000067;,,;;,,;MyLibrary:ARDUINO_ARDUINO_MEGA_2560_REV3_A000067;,,
-BZ1;,1,;Buzzer;,,;;,,;Buzzer_Beeper:Buzzer_12x9.5RM7.6;,~,
-"D1""D2""D3""D4";,4,;LED;,,;;,,;LED_THT:LED_D8.0mm;,~,
-"J1""J2""J3";,3,;Screw_Terminal_01x02;,,;;,,;MyLibrary:TerminalBlock_bornier-2_P5.08mm;,~,
-"R1""R2";,2,;LDR07;,,;;,,;OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical;,http://www.tme.eu/de/Document/f2e3ad76a925811312d226c31da4cd7e/LDR07.pdf,
-"R3""R4""R5""R6""R7""R8";,6,;220;,,;;,,;Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal;,~,
-RV1;,1,;R_Potentiometer;,,;;,,;Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal;,~,
-SW1;,1,;Tilt;,,;;,,;Button_Switch_THT:SW_PUSH_1P1T_6x3.5mm_H5.0_APEM_MJTP1250;,~,
-U1;,1,;HC-SR04;,,;;,,;MyLibrary:XCVR_HC-SR04;,,
-U2;,1,;L298N;,,;;,,;Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical;,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf,
-U3;,1,;LCD-016N002L;,,;;,,;Display:LCD-016N002L;,http://www.vishay.com/docs/37299/37299.pdf,
-U4;,1,;HC05;,,;;,,;MyLibrary:HC05;,,
+Reference;Qty;Value;Footprint;Datasheet
+A1;1;ARDUINO_MEGA_2560_REV3_A000067;MyLibrary:ARDUINO_ARDUINO_MEGA_2560_REV3_A000067;
+BZ1;1;Buzzer;Buzzer_Beeper:Buzzer_12x9.5RM7.6;~
+D1-D2-D3-D4;4;LED;LED_THT:LED_D8.0mm;~
+J1-J2-J3;3;Screw_Terminal_01x02;MyLibrary:TerminalBlock_bornier-2_P5.08mm;~
+R1-R2;2;LDR07;OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical;http://www.tme.eu/de/Document/f2e3ad76a925811312d226c31da4cd7e/LDR07.pdf
+R3-R4-R5-R6-R7-R8;6;220;Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal;~
+RV1;1;R_Potentiometer;Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal;~
+SW1;1;Tilt;Button_Switch_THT:SW_PUSH_1P1T_6x3.5mm_H5.0_APEM_MJTP1250;~
+U1;1;HC-SR04;MyLibrary:XCVR_HC-SR04;
+U2;1;L298N;Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical;http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf
+U3;1;LCD-016N002L;Display:LCD-016N002L;http://www.vishay.com/docs/37299/37299.pdf
+U4;1;HC05;MyLibrary:HC05;
