@@ -76,11 +76,11 @@ Bluetooth-based control interface:
 
 ### PCB Design
 
-![PCB](hardware/images/PCB.png)
+![PCB](hardware/ımages/PCB.png)
 
 ### 3D View
 
-![3D](hardware/images/3D.png)
+![3D](hardware/ımages/3D.png)
 
 ---
 
