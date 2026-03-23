@@ -19,7 +19,7 @@ The hardware system is built around a microcontroller-based architecture and int
 
 ### 📐 Schematic
 
-![Schematic](Images/shematic.png)
+![Schematic](hardware/schematic)
 
 The schematic includes all sensor interfaces, power distribution, and control logic connections.
 
