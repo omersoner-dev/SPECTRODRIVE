@@ -19,7 +19,7 @@ The hardware system is built around a microcontroller-based architecture and int
 
 ### 📐 Schematic
 
-![Schematic](hardware/schematic)
+![Schematic](hardware/schematic/)
 
 The schematic includes all sensor interfaces, power distribution, and control logic connections.
 
@@ -27,7 +27,7 @@ The schematic includes all sensor interfaces, power distribution, and control lo
 
 ### 🧩 PCB Layout
 
-![PCB](Images/PCB.png)
+![PCB](ımages/PCB.png)
 
 Custom PCB was designed in KiCad, including routing, footprint selection, and optimized layout for embedded system integration.
 
@@ -35,7 +35,7 @@ Custom PCB was designed in KiCad, including routing, footprint selection, and op
 
 ### 🧱 3D View
 
-![3D](Images/3D.png)
+![3D](ımages/3D.png)
 
 3D visualization of the PCB showing component placement and physical structure.
 
